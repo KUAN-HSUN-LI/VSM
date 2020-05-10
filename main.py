@@ -1,4 +1,3 @@
-import pdb
 from utils import read_word_dict, load_pkl, idx2file_name, SubmitGenerator, get_rankn_bigram
 from cli import get_args
 import multiprocessing as mp
